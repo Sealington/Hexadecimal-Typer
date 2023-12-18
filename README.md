@@ -2,4 +2,7 @@
 Hacker Typer but with Hex Code!
 
 ### Link?
-https://hexadecimal-typer--seamore.repl.co/
+[Right here.](https://hexadecimal-typer--seamore.repl.co/)
+
+### Does that link not work?
+IDK, you fix it.
